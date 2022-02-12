@@ -1,6 +1,3 @@
-package notUsingFastUtil;
-
-
 import java.util.Arrays;
 
 public class DataCube {

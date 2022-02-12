@@ -1,5 +1,3 @@
-package notUsingFastUtil;
-
 public class ShellFragment {
 
     int[][] matrix;
